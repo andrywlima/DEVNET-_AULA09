@@ -1,0 +1,17 @@
+.jumboHeadImg {
+     margin-top: 20px;pg
+     background-image: url("C:\Users\andry\PycharmProjects\projeto\pet\static\img\cc.jpg");
+
+}
+
+body{
+    margin: 0 auto ;
+
+}
+p {
+    color: black;
+}
+
+h1{
+text-align: center;
+}
